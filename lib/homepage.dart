@@ -129,7 +129,7 @@ class _MyHomePageState extends State<MyHomePage> {
                       // )
                     }),
                 Text(
-                  'Recommend',
+                  'Songs',
                   style: TextStyle(
                       color: Colors.white,
                       fontWeight: FontWeight.bold,
