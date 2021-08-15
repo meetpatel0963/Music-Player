@@ -1,16 +1,30 @@
-# music_player
+# Music Player
+> #### A Music Player App based on Flutter and Firebase.
 
-A new Flutter project.
+## Features
+* SignUp/Login (firebase authentication)
+* Albums and Songs
+* Resume/Pause, Backward/Forward Navigation in Songs Queue and Slider on the Song Page
+* MiniPlayer for Songs
 
-## Getting Started
+## Snapshots
+### Sign In
+![SignIn](./images/signin.png)
+### Sign Up
+![SignUp](./images/signup.png)
+### Albums and Songs
+![SignUp](./images/albums&songs.png)
+### TrackList
+![SignUp](./images/tracklist.png)
+### Track/Song
+![SignUp](./images/track.png)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Thanks
++ I'd appreciate a star if you find this helpful.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## License
+
+[MIT](http://opensource.org/licenses/MIT)
+

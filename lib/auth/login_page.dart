@@ -135,7 +135,7 @@ class _LoginPageState extends State<LoginPage> {
                 SizedBox(height: 80),
                 Center(
                   child: Text(
-                    'Foodybite',
+                    'Music Player',
                     style: TextStyle(
                         color: Colors.white,
                         fontSize: 60,
